@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, React, Angular
 - 💞️ I’m looking for a full-time job as web developer, front-end engineer, UI/UX designer.
 - 📫 How to reach me 
-E-mail: wang.liy@northeastern.edu
+E-mail: wang.liy01@gmail.com
 
 <!---
 LyonWang25/LyonWang25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
