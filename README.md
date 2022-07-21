@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lyon Wang from  :taiwan: (Taiwan)
 - 👀 I’m interested in web developer, front-end engineer, UI/UX engineer
 - 🌱 I’m currently learning JavaScript, React, Angular
-- 💞️ I’m looking for a full-time job as web developer, front-end engineer, UI/UX designer.
+- 💞️ I’m looking for a full-time job as web developer, front-end engineer, UI/UX engineer.
 - 📫 How to reach me 
 E-mail: wang.liy01@gmail.com
 
